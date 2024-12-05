@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283471557397",
+    "project_id": "chatfinal-5912b",
+    "storage_bucket": "chatfinal-5912b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283471557397:android:959ff677b9537429fcef1c",
+        "android_client_info": {
+          "package_name": "com.stomas.chatfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa_mb9f3Jv7-0PPamMDpdonPQfvMxiTFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
